@@ -23,6 +23,8 @@ args:
 
 runOnMaster: true
 
+priorityClassName: ""
+
 tlsFilesBase: "/etc/guard/pki"
 
 pki:
