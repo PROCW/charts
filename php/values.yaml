@@ -1039,3 +1039,4 @@ extras:
 # TEST
 test:
   enabled: true
+  foo: bar
